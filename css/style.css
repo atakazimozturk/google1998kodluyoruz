@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 16px;
+}
+
+img {
+    margin: auto;
+    padding: auto;
+}
+
+p {
+    margin: auto;
+    padding: auto;
+}
+
+.searchbox {
+    background-color: #EEEEEE;
+    margin: auto;
+    padding: auto;
+    width: 80%;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    padding: auto;
+    width: 80%;
+    
+    
+}
+
+.box1 {
+    margin: auto;
+    padding: auto;
+    background-color: #7EE5DA;
+    width: 37%;
+    float: left;
+    height: 80px;
+    margin-right: 5px;
+}
+
+.box2 {
+    margin: auto;
+    padding: auto;
+    background-color: #70CCC2;
+    float: left;
+    width: 25%;
+    height: 80px;
+    margin-right: 5px;
+}
+
+.box3 {
+    margin: auto;
+    padding: auto;
+    background-color: #62B3AA;
+    float: left;
+    width: 37%;
+    height: 80px;
+}
+
+.size {
+    font-size: 15px;
+}
+
